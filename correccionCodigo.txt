@@ -1,0 +1,13 @@
+1. Se agregaron todos los puntos y comas necesarios en el .js
+2. Se completó la el preventDefault
+3. Se modificó un .added por .add
+4. Edad >= 18
+5. Se checaron los id repetidos
+6. Se creó un div en html para la lista de invitados
+Se generó el botón de eliminar a todos los invitados
+
+
+Comentarios de mis compañeras: 
+
+> Se comunicó de manera clara qué cosas se modificarían y los motivos en los que se iban editando.
+> faltaron algunos elementos a modificar para hacer funcionar la página
